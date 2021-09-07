@@ -5,7 +5,7 @@
     - backend
 2. Into the frontend, create a minimal react app
     - Two buttons; one for each backend endpoint
-3. Into the backend, create a minimal express backend with two 
+3. Into the backend, create a minimal express backend with two endpoints
     - GET "/"
     - POST "/"
 4. The functionality should be just a basic counter
